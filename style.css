@@ -120,7 +120,7 @@ p:last-of-type {
 	background-color: #ede3d6;
 	clear: both;
 	width: 100vw;
-	height: 20vh;
+	height: 17vh;
 	bottom: 0;
 	text-align: center;
 	}
@@ -129,7 +129,7 @@ p:last-of-type {
 	position: relative;
 	background-color: #ede3d6;
 	height: 100%;
-	width: 160px;
+	width: 120px;
 	border-radius: 50%;
 	margin-left: auto;
   	margin-right: auto;
